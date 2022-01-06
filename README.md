@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 
  2.I once won the **TOP1** in the preliminary of the "GEOVIS Cup" International Remote Sensing Image Interpretation Competition.
 
- 3.I once won the **TOP2** in the rematch of the "Huawei Shengteng Cup" remote sensing image intelligent processing algorithm competition.
+ 3.I once won the **TOP2** in the rematch of the "Huawei Ascend Cup" remote sensing image intelligent processing algorithm competition.
