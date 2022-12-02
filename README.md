@@ -1,16 +1,13 @@
-### Hi there 👋
+### 你好 👋
 
 
-Here are some ideas to get you started:
+🔭 我的研究方向为遥感信息智能提取。
 
-🔭 I’m currently working on the intelligent extraction of remote sensing information.
+🌱 目前是中国科学院空天信息创新研究院的在读博士生.
 
-🌱 I’m currently a PhD candidate at the Institute of Aerospace Information Innovation, Chinese Academy of Sciences.
+⚡ 我是一个数据竞赛爱好者.
 
-⚡ I’m a data contest enthusiast.
-
- 1.I once won the **TOP2** in the remote sensing analysis track of the Global Data Open and Innovative Application Competition.
-
- 2.I once won the **TOP1** in the preliminary of the "GEOVIS Cup" International Remote Sensing Image Interpretation Competition.
-
- 3.I once won the **TOP2** in the rematch of the "Huawei Ascend Cup" remote sensing image intelligent processing algorithm competition.
+ 1.获得2022年北京大数据技能大赛**TOP1**.
+ 2.获得2021年中科星图杯遥感影像智能解译大赛**TOP1**.
+ 3.获得华为昇腾杯遥感图像智能处理算法大赛"TOP4".
+ 4.获得2021年全球数据开放创新应用大赛珠海遥感分析赛道**TOP2**.
