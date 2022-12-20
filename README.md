@@ -32,6 +32,6 @@
 
 **2021“华为昇腾杯”遥感影像智能处理算法大赛&emsp;国自然委员会信息科学部主办&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;季军**
 
-**2018美国大学生数学建模大赛(本科阶段)&emsp;&emsp;&emsp;美国数学及其应用联合会主办&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;一等奖**
+**2018美国大学生数学建模大赛（本科阶段）&emsp;&emsp;&emsp;美国数学及其应用联合会主办&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;一等奖**
 
-**2018全国大学生GIS应用技能大赛(本科阶段)&emsp;中国地理信息产业协会主办&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;特等奖**
+**2018全国大学生GIS应用技能大赛（本科阶段）&emsp;中国地理信息产业协会主办&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;特等奖**
