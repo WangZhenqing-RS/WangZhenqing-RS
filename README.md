@@ -24,14 +24,14 @@
 
 ---
 
-**2022北京市大数据技能大赛&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;北京市大数据中心主办&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;冠军**
+**2022北京市大数据技能大赛&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;北京市大数据中心主办&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;冠军**
 
-**2021“中科星图杯”国际高分遥感图像解译大赛&emsp;教育部电子信息类专业教学指导委员会指导&emsp;冠军**
+**2021“中科星图杯”国际高分遥感图像解译大赛&emsp;&emsp;教育部电子信息类专业教学指导委员会指导&emsp;冠军**
 
-**2021全球开放数据创新应用大赛珠海遥感赛题&emsp;广东省政府主办&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;亚军**
+**2021全球开放数据创新应用大赛珠海遥感赛题&emsp;&emsp;广东省政府主办&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;亚军**
 
-**2021“华为昇腾杯”遥感影像智能处理算法大赛&emsp;国自然委员会信息科学部主办&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;季军**
+**2021“华为昇腾杯”遥感影像智能处理算法大赛&emsp;&emsp;国自然委员会信息科学部主办&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;季军**
 
 **2018美国大学生数学建模大赛（本科阶段）&emsp;&emsp;&emsp;美国数学及其应用联合会主办&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;一等奖**
 
-**2018全国大学生GIS应用技能大赛（本科阶段）&emsp;中国地理信息产业协会主办&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;特等奖**
+**2018全国大学生GIS应用技能大赛（本科阶段） &emsp;中国地理信息产业协会主办&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;特等奖**
